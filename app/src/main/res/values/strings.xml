@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Favorite Bands</string>
+    <string name="about">about</string>
+    <string name="my_name">Muhamad Abdul Muiz</string>
+    <string name="email">muiz9muhamad@gmail.com</string>
+    <string name="band_name">Nama Band</string>
+    <string name="detail">Detail</string>
+    <string name="band_detail">Band Detail</string>
+    <string name="genre">Genre</string>
+    <string name="band_genre">Band Genre</string>
+</resources>
